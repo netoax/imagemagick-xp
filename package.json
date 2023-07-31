@@ -1,0 +1,17 @@
+{
+  "name": "imagemagick-xp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "imagemagick-native": "^1.9.3"
+  },
+  "gm": {
+    "gm": "^1.25.0"
+  }
+}
